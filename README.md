@@ -28,9 +28,6 @@ A modern Notes application built using **SwiftUI**, **Firebase Firestore**, and 
 - Swift
 
 ---
-
-## Screenshots
-
 ## Screenshots
 
 <p align="center">
