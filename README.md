@@ -32,14 +32,14 @@ A modern Notes application built using **SwiftUI**, **Firebase Firestore**, and 
 ## Screenshots
 
 <p align="center">
-  <img src="images/1.png" width="250"/>
-  <img src="images/2.png" width="250"/>
-  <img src="images/3.png" width="250"/>
+  <img src="1.png" width="250"/>
+  <img src="2.png" width="250"/>
+  <img src="3.png" width="250"/>
 </p>
 
 <p align="center">
-  <img src="images/4.png" width="250"/>
-  <img src="images/5.png" width="250"/>
+  <img src="4.png" width="250"/>
+  <img src="5.png" width="250"/>
 </p>
 ---
 
